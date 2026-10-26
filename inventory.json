@@ -1,7 +1,7 @@
 {
   "dealership": "Kia South Vancouver",
-  "generated_at": "2026-10-25T19:38:44",
-  "vehicle_count": 221,
+  "generated_at": "2026-10-25T19:43:35",
+  "vehicle_count": 222,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -817,7 +817,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia EV9 Land w/Premium Package",
+      "name": "2026 Kia EV9 Land w/Premium Package | Terrain Drive Modes",
       "vin": "KNDADFS52T6087910",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/8fc35838c0ed.html",
       "year": 2026,
@@ -925,6 +925,15 @@
       "condition": "new",
       "price": 32530.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Kia K4 EX PREMIUM",
+      "vin": "3KPFU4DE4TE331817",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/fcbda9e812c4.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "new"
     },
     {
       "name": "2026 Kia Niro EV WIND+ | Heated front seats | FLASH SALE!",
@@ -2049,7 +2058,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia EV4 Wind",
+      "name": "2027 Kia EV4 Wind | Heat Pump",
       "vin": "KNAD24D38V6024880",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/710c329abd5f.html",
       "year": 2027,
