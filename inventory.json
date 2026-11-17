@@ -1,7 +1,7 @@
 {
   "dealership": "Kia South Vancouver",
-  "generated_at": "2026-11-16T23:49:42",
-  "vehicle_count": 224,
+  "generated_at": "2026-11-17T00:05:49",
+  "vehicle_count": 231,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -827,58 +827,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia EV9 GT AWD | MANAGER DEMO SPECIAL",
-      "vin": "KNDAAFS76T6071090",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/832bc223c038.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "EV9",
-      "condition": "new",
-      "price": 87830.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia EV9 Land w/GT-Line Package | GT-Line Design Elements",
-      "vin": "KNDAEFS54T6079109",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/eb0750a0a972.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "EV9 Land w/GT-Line Package",
-      "condition": "new",
-      "price": 82030.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia EV9 Land w/Premium Package | Terrain Drive Modes",
-      "vin": "KNDADFS52T6087910",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/8fc35838c0ed.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "EV9 Land w/Premium Package",
-      "condition": "new",
-      "price": 77780.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia EV9 Land | Smart power liftgate",
-      "vin": "KNDAFFS56T6087368",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/5ea7cc0b52ef.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "EV9 Land",
-      "condition": "new",
-      "price": 67530.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia K4 EX | Smart Key | Kia Connect",
-      "vin": "3KPFU4DE6TE261950",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/c58c7ff3d14a.html",
+      "name": "2026 Kia K4 Hatchback GT-LINE TURBO | Heated Steering Wheel",
+      "vin": "3KPFU5DC9TE430072",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/b913238a1522.html",
       "year": 2026,
       "make": "Kia",
       "model": "K4",
       "condition": "new",
-      "price": 29130.0,
+      "price": 34880.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Kia K4 Hatchback LX | Lane Following Assist",
+      "vin": "3KPFT5DE0TE429915",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/a78a9126551b.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "new",
+      "price": 27080.0,
       "price_currency": "CAD"
     },
     {
@@ -893,17 +860,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia K4 EX | Heated Seats | Back up camera",
-      "vin": "3KPFU4DEXTE265855",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/b6e0f01e2bf7.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "K4",
-      "condition": "new",
-      "price": 29380.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia K4 EX | Smart Key | Kia Connect | Lane Keep Assist",
       "vin": "3KPFU4DE1TE271950",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/e097b1632db7.html",
@@ -912,17 +868,6 @@
       "model": "K4",
       "condition": "new",
       "price": 29380.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia K4 LX | Heated front seats | Kia Connect",
-      "vin": "3KPFT4DE7TE271938",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/c99acf1e2b85.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "K4",
-      "condition": "new",
-      "price": 26580.0,
       "price_currency": "CAD"
     },
     {
@@ -948,51 +893,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia K4 EX Premium | Heated steering wheel",
-      "vin": "3KPFU4DE6TE416979",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/4fa10edd45e5.html",
+      "name": "2026 Kia K4 GT-Line Turbo Limited | Bose Premium Audio System",
+      "vin": "3KPFW4DC8TE408794",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/e3eb1d5a3458.html",
       "year": 2026,
       "make": "Kia",
       "model": "K4",
       "condition": "new",
-      "price": 32530.0,
+      "price": 37380.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia K4 EX PREMIUM",
-      "vin": "3KPFU4DE4TE331817",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/fcbda9e812c4.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "K4",
-      "condition": "new"
     },
     {
       "name": "2026 Kia Niro EV WIND+ | Heated front seats | FLASH SALE!",
       "vin": "KNDCR3L1XT5145983",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/3f31f0379a0d.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 50980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV Wind+ | Heated steering wheel | FLASH SALE!",
-      "vin": "KNDCR3L15T5146426",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/0fc1f7843e65.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 50980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV Wind+ | Heated steering wheel | FLASH SALE!",
-      "vin": "KNDCR3L16T5146662",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/598907704681.html",
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
@@ -1015,17 +929,6 @@
       "name": "2026 Kia Niro EV Wind+ | Heated front seats | FLASH SALE!",
       "vin": "KNDCR3L18T5148249",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/55ce6b28e5c0.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 50980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV Wind+ | Heated front seats | FLASH SALE!",
-      "vin": "KNDCR3L18T5148526",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/24a9fceeb717.html",
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
@@ -1386,28 +1289,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Niro EV WAVE | Surround-view monitor",
-      "vin": "KNDCT3L10T5162650",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/77f3a273c22e.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 55980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Sorento Hybrid HEV EX | Blind spot monitor",
-      "vin": "KNDRGDJG9T5490211",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/d982926fc75f.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sorento Hybrid HEV",
-      "condition": "new",
-      "price": 48880.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia Sorento Hybrid HEV EX | Leather Seats | Power Liftgate",
       "vin": "KNDRGDJG7T5491227",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/0a7afa29d7c1.html",
@@ -1529,17 +1410,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Sportage LX | Heated front seats | FLASH SALE!",
-      "vin": "KNDPUCDF8T7471716",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/e78588796d68.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "new",
-      "price": 36930.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia Sportage EX Premium| Panoramic sunroof | FLASH SALE!",
       "vin": "KNDPVCDF0T7473800",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/a292bf6d3ff8.html",
@@ -1548,17 +1418,6 @@
       "model": "Sportage",
       "condition": "new",
       "price": 44730.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Sportage LX AWD | Lane Keep Assist | Backup Camera",
-      "vin": "KNDPUCDF9T7471983",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/248c8c7d4035.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "new",
-      "price": 36930.0,
       "price_currency": "CAD"
     },
     {
@@ -1848,17 +1707,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Sportage X-Line Limited AWD | Panoramic Sunroof",
-      "vin": "KNDPXCDF8T7531324",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/9fe1a107018e.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "new",
-      "price": 48230.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia Sportage X-Line AWD | Wireless phone charger",
       "vin": "KNDPUCDF3T7532308",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/e9e056cbc212.html",
@@ -1889,17 +1737,6 @@
       "model": "Sportage",
       "condition": "new",
       "price": 48230.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Sportage X-Line | Wireless phone charger",
-      "vin": "KNDPUCDF3T7536097",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/b829bfb1c575.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "new",
-      "price": 40730.0,
       "price_currency": "CAD"
     },
     {
@@ -2035,14 +1872,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Carnival Hybrid EX | Power liftgate",
-      "vin": "KNDNC5KA4V6223694",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/06244a66a8ba.html",
+      "name": "2027 Kia Carnival Hybrid SX+| Highway Driving Assist",
+      "vin": "KNDNE5KA5V6230826",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/ef82a7f6c078.html",
       "year": 2027,
       "make": "Kia",
       "model": "Carnival Hybrid",
       "condition": "new",
-      "price": 54130.0,
+      "price": 61230.0,
       "price_currency": "CAD"
     },
     {
@@ -2054,17 +1891,6 @@
       "model": "Carnival",
       "condition": "new",
       "price": 56480.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia Carnival SX + | Smart Power Liftgate",
-      "vin": "KNDNE5K37V6664456",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/094092f7f9c5.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Carnival",
-      "condition": "new",
-      "price": 58730.0,
       "price_currency": "CAD"
     },
     {
@@ -2090,6 +1916,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Kia Carnival EX+ | Leather Seating Surfaces",
+      "vin": "KNDNC5K36V6679360",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/f8731b1b1ceb.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival",
+      "condition": "new",
+      "price": 53730.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Kia EV4 Wind | Heat Pump",
       "vin": "KNAD24D38V6024880",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/710c329abd5f.html",
@@ -2101,9 +1938,42 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia EV5 Wind | Heat Pump",
-      "vin": "KNDH34DA7V7051661",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/370d048c4a66.html",
+      "name": "2027 Kia EV4 Wind | Lane Keeping Assist",
+      "vin": "KNAD24D56V6026130",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/6d5ec2ac963f.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV4",
+      "condition": "new",
+      "price": 48630.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia EV5 GT-Line | Advanced driver-assistance",
+      "vin": "KNDH54DA9V7063482",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/325fc7b5e043.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV5",
+      "condition": "new",
+      "price": 58030.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia EV5 Wind | Smart Power Liftgate",
+      "vin": "KNDH34DA2V7064186",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/f5d9c31e5963.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV5",
+      "condition": "new",
+      "price": 49780.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia EV5 Wind | Smart Power Liftgate",
+      "vin": "KNDH34DA3V7066027",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/6e8065b16d35.html",
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
@@ -2112,25 +1982,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia EV5 GT-Line Limited | Blind view monitor",
-      "vin": "KNDH54DA3V7020708",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/96fa6f600b1c.html",
+      "name": "2027 Kia K4 EX | Lane Keeping Assist",
+      "vin": "3KPFU4DE7VE422356",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/0673ee064e52.html",
       "year": 2027,
       "make": "Kia",
-      "model": "EV5",
+      "model": "K4",
       "condition": "new",
-      "price": 61530.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia EV5 WIND | Advanced driver-assistance features",
-      "vin": "KNDH3DDE3V7058285",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/15a956832903.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "EV5",
-      "condition": "new",
-      "price": 52530.0,
+      "price": 29580.0,
       "price_currency": "CAD"
     },
     {
@@ -2299,17 +2158,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Seltos EX | Panoramic sunroof",
-      "vin": "KNDECCD34V5032530",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/d550256e3992.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "new",
-      "price": 35980.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Kia Seltos EX PREMIUM | Lane Following Assist",
       "vin": "KNDECCD34V7070750",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/d03848ed28f3.html",
@@ -2354,14 +2202,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Seltos X-Line Limited | Heated front seats",
-      "vin": "KNDEECD76V7071072",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/af041e8a67f2.html",
+      "name": "2027 Kia Seltos EX | Advanced driver-assistance",
+      "vin": "KNDECCD3XV7075967",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/8adf92c0b171.html",
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
       "condition": "new",
-      "price": 43530.0,
+      "price": 35980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Seltos EX Premium | Sunroof",
+      "vin": "KNDECCD37V7075649",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/d26cd5143512.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 39280.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Seltos EX Premium | Power Sunroof",
+      "vin": "KNDECCD31V5051357",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/6c369a2cd8a2.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 39280.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Seltos LX | Lane Keeping Assist",
+      "vin": "KNDEBCD34V5052313",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/069a5a3e5398.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 32980.0,
       "price_currency": "CAD"
     },
     {
@@ -2398,17 +2279,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX Premium | LED fog lights",
-      "vin": "KNDPVDDG1V7422386",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/0e9d70ffb817.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Sportage Hybrid",
-      "condition": "new",
-      "price": 47180.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Kia Sportage Hybrid EX | Kia Connect",
       "vin": "KNDPVDDG1V7431945",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/386fed9efcc9.html",
@@ -2417,17 +2287,6 @@
       "model": "Sportage Hybrid",
       "condition": "new",
       "price": 43930.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia Sportage Hybrid HEV SX | Surround View Monitor",
-      "vin": "KNDPXDDG1V7439411",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/f4639aa37b17.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Sportage Hybrid HEV",
-      "condition": "new",
-      "price": 50680.0,
       "price_currency": "CAD"
     },
     {
@@ -2442,17 +2301,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX Premium | Panoramic sunroof",
-      "vin": "KNDPVDDG5V7452281",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/c6ca5e881bba.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Sportage Hybrid",
-      "condition": "new",
-      "price": 47180.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Kia Sportage Hybrid EX | Lane Keeping Assist",
       "vin": "KNDPVDDG7V7452816",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/4279d9b928c3.html",
@@ -2461,6 +2309,237 @@
       "model": "Sportage Hybrid",
       "condition": "new",
       "price": 44180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid EX | Rearview camera",
+      "vin": "KNDPVDDG6V7456078",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/9dde0acec113.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 43930.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX | Dual Panoramic Displays",
+      "vin": "KNDPXDDG8V7462328",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/6e71ff0d8824.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX | Dual Panoramic Displays",
+      "vin": "KNDPXDDG6V7462389",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/f1559d196e6a.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX | Dual Panoramic Displays",
+      "vin": "KNDPXDDGXV7464999",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/d638cf6e2910.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX | Dual Panoramic Displays",
+      "vin": "KNDPXDDG4V7462391",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/650a8e7037c6.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX | Dual Panoramic Displays",
+      "vin": "KNDPXDDG9V7462323",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/ab9ac27303f7.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX | Dual Panoramic Displays",
+      "vin": "KNDPXDDG6V7469813",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/52372700eca9.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX | Dual Panoramic Displays",
+      "vin": "KNDPXDDG6V7478088",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/b9741ea763e6.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid EX Premium | Panoramic Sunroof",
+      "vin": "KNDPVDDGXV7462143",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/bd2a15a2cdb1.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 47180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX | Dual Panoramic Displays",
+      "vin": "KNDPXDDG4V7462620",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/96662b6564e5.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid EX Premium | Panoramic Sunroof",
+      "vin": "KNDPVDDG5V7463121",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/3dd44f82743f.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 47180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX | Surround View Monitor",
+      "vin": "KNDPXDDG8V7476620",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/699bd9c28928.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50430.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX | Power Liftgate",
+      "vin": "KNDPXDDG4V7478266",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/98d5eaeccd5f.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Plug-in Hybrid EX Premium | Surround View Monitor",
+      "vin": "KNDPVDDH2V7462324",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/24b28cb3e264.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Plug-In Hybrid",
+      "condition": "new",
+      "price": 51580.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage EX Premium | Panoramic Sunroof",
+      "vin": "KNDPVCDF4V7550784",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/27efeda7c8a2.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 44680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage EX Premium | Panoramic Sunroof",
+      "vin": "KNDPVCDFXV7553155",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/0030cf6b470c.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 44930.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage EX Premium | Panoramic Sunroof",
+      "vin": "KNDPVCDF7V7547653",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/96abc189a359.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 44930.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage X-Line | Panoramic Dual Display",
+      "vin": "KNDPUCDF4V7551565",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/8939ef88cee4.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40930.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage X-Line | Panoramic Dual Display",
+      "vin": "KNDPUCDF2V7550253",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/bb2e8bd42a4f.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40930.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage X-Line Limited | Panoramic sunroof",
+      "vin": "KNDPXCDF4V7550441",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/ac2ac0afdede.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 48430.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage X-Line Limited | Highway Driving Assist",
+      "vin": "KNDPXCDF0V7555149",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/eed18b48ad57.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 48430.0,
       "price_currency": "CAD"
     }
   ]

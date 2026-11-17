@@ -1,6 +1,6 @@
 # Kia South Vancouver
 
- dealership in Vancouver. AI-readable inventory mirror, about 224 vehicles.
+ dealership in Vancouver. AI-readable inventory mirror, about 231 vehicles.
 
 - Official website: https://www.kiavancouver.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/
