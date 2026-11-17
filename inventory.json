@@ -1,7 +1,7 @@
 {
   "dealership": "Kia South Vancouver",
-  "generated_at": "2026-10-26T04:53:08",
-  "vehicle_count": 222,
+  "generated_at": "2026-11-16T23:49:42",
+  "vehicle_count": 224,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -21,6 +21,17 @@
       "model": "Accent",
       "condition": "used",
       "price": 6995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2010 Ford Escape XLT | Split-Folding Rear Seats",
+      "vin": "1FMCU0D78AKA40028",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/61fa29fb9f60.html",
+      "year": 2010,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "used",
+      "price": 9995.0,
       "price_currency": "CAD"
     },
     {
@@ -46,17 +57,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2011 Subaru Outback 2.5i Limited Pwr Moon | Cruise Control",
-      "vin": "4S4BRGKC9B3384128",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/433b2c27b936.html",
-      "year": 2011,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "used",
-      "price": 9995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2013 Kia Rio Hatchback 5-Door EX | Bluetooth Connectivity",
       "vin": "KNADM5A30D6800809",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/be99ce745f00.html",
@@ -79,6 +79,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2013 Lexus RX LE | Versatile cargo space",
+      "vin": "JTJBK1BAXD2025252",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/798cb5e28895.html",
+      "year": 2013,
+      "make": "Lexus",
+      "model": "RX",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2014 Audi Q5 2.0L Technik | Panoramic Sunroof",
+      "vin": "WA1WFCFP1EA005508",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/ddcb4195b274.html",
+      "year": 2014,
+      "make": "Audi",
+      "model": "Q5",
+      "condition": "used",
+      "price": 10995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2014 MINI 3 Door | Rear Parking Sensors",
       "vin": "WMWXM5C55ET730240",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/4c7af1126ab2.html",
@@ -87,6 +109,17 @@
       "model": "3 Door",
       "condition": "used",
       "price": 11995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 BMW X1 XDRIVE28I",
+      "vin": "WBAVL1C51FVY38945",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/77df0049d966.html",
+      "year": 2015,
+      "make": "BMW",
+      "model": "X1",
+      "condition": "used",
+      "price": 12995.0,
       "price_currency": "CAD"
     },
     {
@@ -123,25 +156,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Chevrolet Equinox LS | Cruise control",
-      "vin": "2GNALBEK9G6332965",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/55b8ef0d2dda.html",
+      "name": "2016 Subaru Crosstrek 2.0i w/Touring Pkg | Rearview Camera",
+      "vin": "JF2GPABC2G8215061",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/b8c6cef91223.html",
       "year": 2016,
-      "make": "Chevrolet",
-      "model": "Equinox",
+      "make": "Subaru",
+      "model": "Crosstrek",
       "condition": "used",
-      "price": 9995.0,
+      "price": 18995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Kia Niro Hybrid SX Touring | Blind-Spot Detection",
-      "vin": "KNDCE3LC5H5095174",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/2365a1055800.html",
-      "year": 2017,
-      "make": "Kia",
-      "model": "Niro Hybrid",
+      "name": "2016 Toyota Corolla LE | Excellent Fuel Economy",
+      "vin": "2T1BURHE6GC575866",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/897cbf72d74a.html",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Corolla",
       "condition": "used",
-      "price": 17995.0,
+      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
@@ -175,6 +208,17 @@
       "model": "Cherokee",
       "condition": "used",
       "price": 14888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Kia Soul LX | Rearview Camera",
+      "vin": "KNDJN2A28J7513832",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/2f7ae91ebf05.html",
+      "year": 2018,
+      "make": "Kia",
+      "model": "Soul",
+      "condition": "used",
+      "price": 16995.0,
       "price_currency": "CAD"
     },
     {
@@ -244,6 +288,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020 Kia Telluride SX | Power Liftgate",
+      "vin": "5XYP5DHC6LG022055",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/77d2340baab2.html",
+      "year": 2020,
+      "make": "Kia",
+      "model": "Telluride",
+      "condition": "used",
+      "price": 24995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 Mercedes-Benz GLB GLB 250 | 7 central media display",
       "vin": "W1N4M4HB1LW053495",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/23dcfce332eb.html",
@@ -277,20 +332,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Kia Seltos EX Premium |Sofino Leather Seats",
-      "vin": "KNDERCAA2M7230950",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/ab9478e90f9b.html",
-      "year": 2021,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Kia Seltos EX | Rearview camera",
+      "name": "2021 Kia Seltos EX | Blind-Spot Collision Warning",
       "vin": "KNDEUCAA7M7114075",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/ee0043d8f99c.html",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/19c888e136de.html",
       "year": 2021,
       "make": "Kia",
       "model": "Seltos",
@@ -321,13 +365,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Ford Bronco Sport Outer Banks",
+      "name": "2022 Ford Bronco Sport Outer Banks | Leather-trimmed seating",
       "vin": "3FMCR9C61NRD11673",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/1a0dcd86b2a9.html",
       "year": 2022,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "price": 23495.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2022 Kia Carnival EX | Heated Leather Steering Wheel",
@@ -352,25 +398,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Mercedes-Benz GLS 450 | Leather Interior | FLASH SALE!",
-      "vin": "4JGFF5KE7NA757747",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/bc26a9805216.html",
-      "year": 2022,
-      "make": "Mercedes-Benz",
-      "model": "GLS",
+      "name": "2023 Chrysler Pacifica Hybrid TOURING L | Blind-Spot Monitoring",
+      "vin": "2C4RC1L70PR630730",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/7e90876b263a.html",
+      "year": 2023,
+      "make": "Chrysler",
+      "model": "Pacifica Hybrid",
       "condition": "used",
-      "price": 58888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Nissan Rogue S | Rearview Camera",
-      "vin": "5N1AT3ABXNC672582",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/b50f826be7a8.html",
-      "year": 2022,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 22995.0,
+      "price": 49995.0,
       "price_currency": "CAD"
     },
     {
@@ -418,6 +453,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Kia Seltos SX Turbo | Parking sensors",
+      "vin": "KNDETCA22P7400822",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/67109788ffdc.html",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 23995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Kia Sorento SX | Head-Up Display",
       "vin": "5XYRKDLF2PG225243",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/dfc338a95315.html",
@@ -436,17 +482,8 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 26995.0,
+      "price": 26495.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Bronco Big Bend",
-      "vin": "1FMDE7AHXRLA17265",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/893dbf1855b3.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used"
     },
     {
       "name": "2024 Honda Pilot EX-L | Power Liftgate | FLASH SALE !",
@@ -456,7 +493,7 @@
       "make": "Honda",
       "model": "Pilot",
       "condition": "used",
-      "price": 48995.0,
+      "price": 48795.0,
       "price_currency": "CAD"
     },
     {
@@ -467,18 +504,7 @@
       "make": "Kia",
       "model": "Forte",
       "condition": "used",
-      "price": 23695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Kia Forte Sedan EX+ | Lane Keeping Assist | FLASH SALE !",
-      "vin": "3KPF34AD1RE732619",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/b33c9023f501.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 20995.0,
+      "price": 23495.0,
       "price_currency": "CAD"
     },
     {
@@ -493,17 +519,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Kia Seltos LX | Heated front seats",
-      "vin": "KNDEPCAAXR7600278",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/f7972e1cf506.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 24995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Kia Sportage LX | Driver Attention Warning | FLASH SALE !",
       "vin": "KNDPU3DF8R7278412",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/e697f72e71b6.html",
@@ -511,7 +526,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 25995.0,
+      "price": 25795.0,
       "price_currency": "CAD"
     },
     {
@@ -537,14 +552,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Kicks SV | Blind Spot Warning",
-      "vin": "3N1CP5CV7RL540610",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/2dbc15e153a1.html",
+      "name": "2024 Kia Sportage EX | Rearview camera",
+      "vin": "KNDPVCDF5R7228922",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/17e4f41e68c4.html",
       "year": 2024,
-      "make": "Nissan",
-      "model": "Kicks",
+      "make": "Kia",
+      "model": "Sportage",
       "condition": "used",
-      "price": 22995.0,
+      "price": 32995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Kia Telluride X-Line | Heated second-row seats",
+      "vin": "5XYP5DGC7RG455278",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/cbe78009a4f5.html",
+      "year": 2024,
+      "make": "Kia",
+      "model": "Telluride",
+      "condition": "used",
+      "price": 48995.0,
       "price_currency": "CAD"
     },
     {
@@ -559,22 +585,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford Bronco Sport Big Bend",
-      "vin": "3FMCR9BN5SRE02028",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/8f520183e81d.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "used"
-    },
-    {
-      "name": "2025 Ford Bronco Outer Banks",
+      "name": "2025 Ford Bronco Outer Banks | Leather-trimmed seating",
       "vin": "1FMDE8BH5SLA98590",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/318f82358ced.html",
       "year": 2025,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "price": 45995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 Genesis GV80 Coupe 3.5T e-SC",
@@ -599,17 +618,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia EV9 Land w/GT-Line Package | Panoramic Sunroof",
-      "vin": "KNDAEFS55S6055173",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/85383df5fea0.html",
-      "year": 2025,
-      "make": "Kia",
-      "model": "EV9 Land w/GT-Line Package",
-      "condition": "used",
-      "price": 70995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Kia K4 GT-LINE TURBO | Sunroof | FLASH SALE !",
       "vin": "3KPFW4DC9SE093793",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/2383c03f4621.html",
@@ -617,7 +625,7 @@
       "make": "Kia",
       "model": "K4",
       "condition": "used",
-      "price": 27995.0,
+      "price": 27795.0,
       "price_currency": "CAD"
     },
     {
@@ -639,18 +647,29 @@
       "make": "Kia",
       "model": "Seltos",
       "condition": "used",
-      "price": 29995.0,
+      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia Seltos EX | Heated front seats",
-      "vin": "KNDEUCAA1S7733297",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/ca2020d66e10.html",
+      "name": "2025 Kia Seltos SX | Sunroof",
+      "vin": "KNDETCA74S7693398",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/3cfd0d6c5642.html",
       "year": 2025,
       "make": "Kia",
       "model": "Seltos",
       "condition": "used",
-      "price": 25995.0,
+      "price": 30995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia Sorento Plug-In Hybrid EX | Panoramic Sunroof",
+      "vin": "KNDRJDJH7S5318784",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/2cc5b59cfb34.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Sorento Plug-In Hybrid",
+      "condition": "used",
+      "price": 39995.0,
       "price_currency": "CAD"
     },
     {
@@ -676,13 +695,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mazda CX-70 MHEV GS-L",
+      "name": "2025 Kia Sportage EX Premium | Heated steering wheel",
+      "vin": "KNDPVCDF8S7409745",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/fa0d230ec48a.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "used",
+      "price": 32995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Mazda CX-70 MHEV GS-L | Blind Spot Monitoring",
       "vin": "JM3KJCHD7S1110899",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/48892de02ecf.html",
       "year": 2025,
       "make": "Mazda",
       "model": "CX-70 MHEV",
-      "condition": "used"
+      "condition": "used",
+      "price": 37995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 Mitsubishi Outlander LE | Drive Mode Selector",
