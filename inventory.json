@@ -1,17 +1,10 @@
 {
   "dealership": "Kia South Vancouver",
-  "generated_at": "2026-11-17T20:49:52",
-  "vehicle_count": 233,
+  "generated_at": "2026-11-17T20:58:44",
+  "vehicle_count": 236,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "Vehicles in Vancouver",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/2e767a93fec5.html",
-      "condition": "new",
-      "price": 30980.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "2009 Hyundai ACCENT Sedan GL | AM/FM stereo with CD player",
       "vin": "KMHCN45C69U332583",
@@ -904,17 +897,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia K4 GT-Line Turbo Limited | Panoramic Sunroof",
-      "vin": "3KPFW4DC7TE400704",
-      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/399ebcfbe799.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "K4",
-      "condition": "new",
-      "price": 37130.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia K4 GT-Line Turbo Limited | Bose Premium Audio System",
       "vin": "3KPFW4DC8TE408794",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/e3eb1d5a3458.html",
@@ -923,6 +905,17 @@
       "model": "K4",
       "condition": "new",
       "price": 37380.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Kia K4 EX Premium | Lane Keeping Assist",
+      "vin": "3KPFU4DE8TE404297",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/18d0044f930d.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "new",
+      "price": 32530.0,
       "price_currency": "CAD"
     },
     {
@@ -1572,6 +1565,17 @@
       "model": "Sportage",
       "condition": "new",
       "price": 42730.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Kia Sportage EX Premium  | Heated Seats | AWD",
+      "vin": "KNDPVCDF8T7498878",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/2e767a93fec5.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 44480.0,
       "price_currency": "CAD"
     },
     {
@@ -2268,6 +2272,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Kia Sorento Plug-In Hybrid SX | Surround View Monitor",
+      "vin": "KNDRMDJH8V5578171",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/e7a28fbe4032.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sorento Plug-In Hybrid",
+      "condition": "new",
+      "price": 63480.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Kia Sportage Hybrid HYBRID EX PREMIUM | Panoramic Sunroof",
       "vin": "KNDPVDDG0V7416658",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/d0933adceb57.html",
@@ -2469,6 +2484,28 @@
       "name": "2027 Kia Sportage Hybrid SX | Power Liftgate",
       "vin": "KNDPXDDG4V7478266",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/98d5eaeccd5f.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX | Highway Driving Assist",
+      "vin": "KNDPXDDG5V7476767",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/5b32e84188bc.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX | Highway Driving Assist",
+      "vin": "KNDPXDDG6V7478091",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/67ad02bb86f4.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
