@@ -1,7 +1,7 @@
 {
   "dealership": "Kia South Vancouver",
-  "generated_at": "2026-11-18T14:53:55",
-  "vehicle_count": 236,
+  "generated_at": "2026-11-18T15:06:34",
+  "vehicle_count": 241,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1909,6 +1909,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Kia Carnival Hybrid SX",
+      "vin": "KNDNE5KA5V6243673",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/eb5dae16952d.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival Hybrid",
+      "condition": "new",
+      "price": 59230.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Kia Carnival SX | Heated & Ventilated Front Seats",
       "vin": "KNDNE5K31V6665585",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/c6c22ffb78f6.html",
@@ -2008,6 +2019,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Kia EV9 Land w/GT-Line 6P Pkg",
+      "vin": "KNDAEFS51V6088885",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/430bf4155b69.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV9 Land w/GT-Line 6P Pkg",
+      "condition": "new",
+      "price": 82080.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia EV9 Land",
+      "vin": "KNDAFFS56V6088894",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/e345837b5a40.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV9 Land",
+      "condition": "new",
+      "price": 67530.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Kia K4 EX | Lane Keeping Assist",
       "vin": "3KPFU4DE7VE422356",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/0673ee064e52.html",
@@ -2016,6 +2049,28 @@
       "model": "K4",
       "condition": "new",
       "price": 29580.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia K4 EX",
+      "vin": "3KPFX5DE0VE418243",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/4909f50237d6.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "new",
+      "price": 29830.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia K4 LX",
+      "vin": "3KPFT5DEXVE420545",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/new/77acc9f97b3f.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "new",
+      "price": 27280.0,
       "price_currency": "CAD"
     },
     {
