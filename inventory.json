@@ -1,6 +1,6 @@
 {
   "dealership": "Kia South Vancouver",
-  "generated_at": "2026-11-17T20:58:44",
+  "generated_at": "2026-11-18T06:22:52",
   "vehicle_count": 236,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -200,7 +200,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "used",
-      "price": 14888.0,
+      "price": 14688.0,
       "price_currency": "CAD"
     },
     {
@@ -222,7 +222,7 @@
       "make": "MINI",
       "model": "3 Door Cooper",
       "condition": "used",
-      "price": 12995.0,
+      "price": 12495.0,
       "price_currency": "CAD"
     },
     {
@@ -244,7 +244,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 29995.0,
+      "price": 26795.0,
       "price_currency": "CAD"
     },
     {
@@ -277,7 +277,7 @@
       "make": "Kia",
       "model": "Optima Sedan EX Premium",
       "condition": "used",
-      "price": 21995.0,
+      "price": 21695.0,
       "price_currency": "CAD"
     },
     {
@@ -310,7 +310,7 @@
       "make": "Mercedes-Benz",
       "model": "GLB",
       "condition": "used",
-      "price": 29995.0,
+      "price": 29495.0,
       "price_currency": "CAD"
     },
     {
@@ -321,7 +321,7 @@
       "make": "Kia",
       "model": "Forte",
       "condition": "used",
-      "price": 18995.0,
+      "price": 17995.0,
       "price_currency": "CAD"
     },
     {
@@ -387,7 +387,7 @@
       "make": "Kia",
       "model": "Carnival",
       "condition": "used",
-      "price": 33995.0,
+      "price": 32795.0,
       "price_currency": "CAD"
     },
     {
@@ -398,7 +398,7 @@
       "make": "Kia",
       "model": "Forte",
       "condition": "used",
-      "price": 20995.0,
+      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
