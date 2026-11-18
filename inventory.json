@@ -1,6 +1,6 @@
 {
   "dealership": "Kia South Vancouver",
-  "generated_at": "2026-11-18T06:36:35",
+  "generated_at": "2026-11-18T14:53:55",
   "vehicle_count": 236,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -233,7 +233,7 @@
       "make": "Mercedes-Benz",
       "model": "CLA",
       "condition": "used",
-      "price": 16695.0,
+      "price": 16495.0,
       "price_currency": "CAD"
     },
     {
@@ -255,7 +255,7 @@
       "make": "Subaru",
       "model": "Ascent",
       "condition": "used",
-      "price": 19888.0,
+      "price": 19688.0,
       "price_currency": "CAD"
     },
     {
@@ -442,7 +442,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 47995.0,
+      "price": 44995.0,
       "price_currency": "CAD"
     },
     {
@@ -453,7 +453,7 @@
       "make": "Kia",
       "model": "Forte",
       "condition": "used",
-      "price": 18995.0,
+      "price": 18495.0,
       "price_currency": "CAD"
     },
     {
