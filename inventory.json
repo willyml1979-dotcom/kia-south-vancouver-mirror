@@ -1,7 +1,7 @@
 {
   "dealership": "Kia South Vancouver",
-  "generated_at": "2026-11-17T00:05:49",
-  "vehicle_count": 231,
+  "generated_at": "2026-11-17T20:49:52",
+  "vehicle_count": 233,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -130,7 +130,7 @@
       "make": "BMW",
       "model": "X3",
       "condition": "used",
-      "price": 16995.0,
+      "price": 16695.0,
       "price_currency": "CAD"
     },
     {
@@ -141,7 +141,7 @@
       "make": "Land",
       "model": "Rover Range Rover Evoque Prestige",
       "condition": "used",
-      "price": 14995.0,
+      "price": 14495.0,
       "price_currency": "CAD"
     },
     {
@@ -152,7 +152,7 @@
       "make": "Mercedes-Benz",
       "model": "M-Class ML 350 BlueTEC AWD",
       "condition": "used",
-      "price": 11888.0,
+      "price": 11688.0,
       "price_currency": "CAD"
     },
     {
@@ -185,7 +185,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 9995.0,
+      "price": 9495.0,
       "price_currency": "CAD"
     },
     {
@@ -285,6 +285,17 @@
       "model": "Optima Sedan EX Premium",
       "condition": "used",
       "price": 21995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Kia Optima Sedan EX Premium",
+      "vin": "KNAGV4LD7L5041882",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/1655be52e3e5.html",
+      "year": 2020,
+      "make": "Kia",
+      "model": "Optima Sedan EX Premium",
+      "condition": "used",
+      "price": 11995.0,
       "price_currency": "CAD"
     },
     {
@@ -519,6 +530,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Kia Seltos EX | Lane Keeping Assist",
+      "vin": "KNDEUCAA8R7512838",
+      "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/296fab6e90f6.html",
+      "year": 2024,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 25995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Kia Sportage LX | Driver Attention Warning | FLASH SALE !",
       "vin": "KNDPU3DF8R7278412",
       "url": "https://willyml1979-dotcom.github.io/kia-south-vancouver-mirror/used/e697f72e71b6.html",
@@ -735,7 +757,7 @@
       "make": "Toyota",
       "model": "RAV4 Hybrid Hybrid",
       "condition": "used",
-      "price": 39888.0,
+      "price": 39495.0,
       "price_currency": "CAD"
     },
     {
@@ -768,7 +790,7 @@
       "make": "Kia",
       "model": "Seltos",
       "condition": "used",
-      "price": 30995.0,
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
@@ -1846,7 +1868,7 @@
       "make": "Toyota",
       "model": "Sienna HEV",
       "condition": "used",
-      "price": 76995.0,
+      "price": 76795.0,
       "price_currency": "CAD"
     },
     {
